@@ -24,4 +24,4 @@ jobs:
       - run:
           name: run tests
           command:
-          bundle exec rake spec
+              bundle exec rake spec
